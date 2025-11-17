@@ -1,0 +1,11 @@
+C:\Users\ForgacsAlex\Desktop\ikt 2025\20251117\Fa_feladatok\obj\Debug\Fa_feladatok.csproj.AssemblyReference.cache
+C:\Users\ForgacsAlex\Desktop\ikt 2025\20251117\Fa_feladatok\obj\Debug\Fa_feladatok.Form1.resources
+C:\Users\ForgacsAlex\Desktop\ikt 2025\20251117\Fa_feladatok\obj\Debug\Fa_feladatok.Properties.Resources.resources
+C:\Users\ForgacsAlex\Desktop\ikt 2025\20251117\Fa_feladatok\obj\Debug\Fa_feladatok.csproj.GenerateResource.cache
+C:\Users\ForgacsAlex\Desktop\ikt 2025\20251117\Fa_feladatok\obj\Debug\Fa_feladatok.csproj.CoreCompileInputs.cache
+C:\Users\ForgacsAlex\Desktop\ikt 2025\20251117\Fa_feladatok\bin\Debug\Fa_feladatok.exe.config
+C:\Users\ForgacsAlex\Desktop\ikt 2025\20251117\Fa_feladatok\bin\Debug\Fa_feladatok.exe
+C:\Users\ForgacsAlex\Desktop\ikt 2025\20251117\Fa_feladatok\bin\Debug\Fa_feladatok.pdb
+C:\Users\ForgacsAlex\Desktop\ikt 2025\20251117\Fa_feladatok\obj\Debug\Fa_feladatok.exe
+C:\Users\ForgacsAlex\Desktop\ikt 2025\20251117\Fa_feladatok\obj\Debug\Fa_feladatok.pdb
+C:\Users\ForgacsAlex\Desktop\ikt 2025\20251117\Fa_feladatok\obj\Debug\Fa_feladatok.exe.config
